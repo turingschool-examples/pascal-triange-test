@@ -4,7 +4,7 @@
   "description": "",
   "main": "pascal.js",
   "scripts": {
-    "test": "mocha pascal.js"
+    "test": "mocha pascal-test.js"
   },
   "author": "",
   "license": "ISC",
